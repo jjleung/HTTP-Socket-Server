@@ -1,0 +1,28 @@
+{
+  "name": "HTTP-Socket-Server",
+  "version": "1.0.0",
+  "description":
+    "## Basic http server accepting socket connections via net.Server",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjleung/HTTP-Socket-Server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjleung/HTTP-Socket-Server/issues"
+  },
+  "homepage": "https://github.com/jjleung/HTTP-Socket-Server#readme",
+  "dependencies": {
+    "npm": "^5.7.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.1"
+  }
+}
